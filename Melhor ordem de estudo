@@ -1,0 +1,10 @@
+# LISTA COM A MELHOR ORDEM PARA ESTUDAR PYTHON
+
+1 - TIPOS DE DADOS
+
+int() - inteiro
+float() - real
+str() - string
+list() - lista
+tuple() - tupla
+dict() - dicionário
